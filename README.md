@@ -1,6 +1,6 @@
 # Visual-studio-ReleaseVersion-debug  
 在VisualStudio中正常调试一个Release版本的程序会有无法逐行调试的情况。  
-完整的视频解决方案链接：https://github.com/Neko-yc/Visual-studio-ReleaseVersion-debug/issues/1
+完整的视频解决方案链接：[VisualStudio如何调试一个Release版本的代码](https://github.com/Neko-yc/Visual-studio-ReleaseVersion-debug/issues/1) <br>
   
 正常情况下调试一个Release版本的程序会省略很多步骤，例如运算的合并：
 ![](https://github.com/Neko-yc/Visual-studio-ReleaseVersion-debug/blob/main/image/%E7%9B%B4%E6%8E%A5%E8%B7%B3%E8%BF%87.png)  
